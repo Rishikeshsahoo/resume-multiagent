@@ -1,0 +1,1 @@
+system_prompt = """You are given a pdf file and you have to extract the text from it."""
